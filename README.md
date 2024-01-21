@@ -1,7 +1,7 @@
 **InsulinTrack**
 
 ## Overview
-InsulinTrack is a React Native mobile application designed to help individuals track their daily insulin usage. The app provides an intuitive interface for logging insulin doses and viewing recent usage history. It is particularly useful for diabetic patients who need to monitor their insulin levels regularly.
+InsulinTrack is a web and mobile application designed to help individuals track their daily insulin usage. The app provides an intuitive interface for logging insulin doses and viewing recent usage history. It is particularly useful for diabetic patients who need to monitor their insulin levels regularly.
 
 **Features**
 - Create new medication dosage sliders, perfect for tracking 'quick insulin' doses.
